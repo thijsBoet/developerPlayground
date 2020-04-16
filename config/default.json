@@ -1,3 +1,4 @@
 {
- "mongoURI": "mongodb+srv://admin:Shadow-1@cluster0-mcail.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://admin:MJSbCSWVidzzrQw4@cluster0-mcail.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "0KtJvO6jSf"
 }
